@@ -1,0 +1,99 @@
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Guna.UI.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Guna.UI2.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Login.resources
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\MySql.Data.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Google.Protobuf.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Zstandard.Net.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Memory.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Buffers.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\SAZZAD\source\repos\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\MySql.Data.xml
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Guna.UI.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Guna.UI2.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\MySql.Data.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Google.Protobuf.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Zstandard.Net.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\BouncyCastle.Crypto.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Ubiety.Dns.Core.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Memory.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Buffers.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\MySql.Data.xml
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csprojAssemblyReference.cache
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Login.resources
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.MedicineForm.resources
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\DatabaseM.mdf
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\DatabaseM_log.ldf
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Data.SqlClient.dll
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Data.SqlClient.xml
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Employees.resources
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Company.resources
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Billing.resources
+E:\Shanto\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Home.resources
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\DatabaseM.mdf
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\DatabaseM_log.ldf
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Guna.UI2.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Data.SqlClient.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Google.Protobuf.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Zstandard.Net.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\BouncyCastle.Crypto.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Ubiety.Dns.Core.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Memory.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Buffers.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Compression.LZ4.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\K4os.Hash.xxHash.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Numerics.Vectors.dll
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\MySql.Data.xml
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\System.Data.SqlClient.xml
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csprojAssemblyReference.cache
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Billing.resources
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Company.resources
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Employees.resources
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Form1.resources
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Home.resources
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Login.resources
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.MedicineForm.resources
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+D:\7th Semester\JAVA 2\Final project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
